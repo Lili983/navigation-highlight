@@ -1,0 +1,16 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+h1 {
+  font-family: Georgia;
+  font-size: 1.875rem;
+}
+
+p {
+
+}
